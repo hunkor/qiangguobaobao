@@ -13,7 +13,7 @@
 定时任务：可设置程序一次或每天定时启动任务。
 
 
-线报 :http://t.me/qiangguobaobahttp://t.me/qiangguobaoba
+线报 :http://t.me/qiangguobaoba
 官方：http://www.youshou.plus
 
 功能说明
