@@ -14,7 +14,8 @@
 
 
 线报 :http://t.me/qiangguobaoba
-官方：http://www.youshou.plus
+
+官方网站：http://www.youshou.plus
 
 功能说明
 目前支持：签到、文章、视频、每日答题、每周答题、专项答题、挑战答题、四人赛、双人赛、分享、发表、本地频道。
