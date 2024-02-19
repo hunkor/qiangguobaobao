@@ -1,4 +1,4 @@
-# qiangguobaobao
+ # 强国宝
 软件介绍
 
 程序特性
@@ -14,4 +14,4 @@
 
 
 
-线报:http://t.me/qiangguo
+ 线报 :http: //t.me/qiangguobaoba
